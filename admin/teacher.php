@@ -175,7 +175,6 @@ include('header.php');
 	</div>
 </div>
 
-
 <!-- delete modal -->
 
 <!-- The Modal -->
